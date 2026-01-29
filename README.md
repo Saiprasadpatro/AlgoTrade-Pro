@@ -45,7 +45,7 @@
 ## 🌐 URLs
 
 - **Live Demo**: https://3000-ify5yl6c2x4ymvtkd920y-583b4d74.sandbox.novita.ai
-- **GitHub**: _(Not yet deployed)_
+- **GitHub Repository**: https://github.com/Saiprasadpatro/AlgoTrade-Pro
 
 ## 🏗️ Architecture
 
