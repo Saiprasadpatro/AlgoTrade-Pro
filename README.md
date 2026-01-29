@@ -547,7 +547,6 @@ This platform is for educational purposes only. Trading stocks, options, futures
 For questions or issues with this demo platform, please refer to the API documentation above or the inline code comments.
 
 ---
-
-**Built with Hono + Cloudflare Pages**  
+ 
 **Last Updated**: January 28, 2026  
 **Version**: 1.0.0 (Demo)
